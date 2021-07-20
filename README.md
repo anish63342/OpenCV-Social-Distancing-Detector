@@ -1,5 +1,5 @@
 <h1 align="left">
-    OpenCV-Social Distancing Detector
+    OpenCV Social Distancing Detector
 </h1>
 
 A social distancing detector built with OpenCV.
